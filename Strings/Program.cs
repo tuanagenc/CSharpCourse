@@ -20,7 +20,7 @@
 
 
 
-            s
+           
 string sentence = "My name is Tuana Genç";
 var result = sentence.Length;
 var result2 = sentence.Clone();
