@@ -8,7 +8,7 @@ namespace Classes
         static void Main(string[] args)
         {
             CustomerManager customerManager = new CustomerManager();
-            customerManager.Add();
+            customerManager.Add();8
             customerManager.Update();
 
             ProductManager productManager = new ProductManager();
